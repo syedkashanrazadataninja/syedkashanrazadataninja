@@ -1,5 +1,4 @@
 # 💫 Hi 👋, I'm Syed Kashan Raza
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 I'm an aspiring Data Analyst with a background in Management Information Systems and hands-on experience in reporting, business analytics, and retail. I enjoy transforming raw data into actionable insights through Power BI, SQL, Python, and Excel. My GitHub showcases projects in data visualization, dashboard development, SQL, and analytics as I continue to build practical solutions and grow in the fields of Business Intelligence and Data Analytics.
 Email Me 👉 ✉️ **syedkreza14@gmail.com** For Collaboration/Project or Anything Else.
 
